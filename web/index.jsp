@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>вкладка 1</title>
+    <title>вкладка 2</title>
 </head>
 <body>
 <h1>сейчас чо-то буит</h1>
